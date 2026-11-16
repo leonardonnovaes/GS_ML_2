@@ -1,0 +1,4 @@
+ml/dados/*
+!ml/dados/README.md
+__pycache__/
+.ipynb_checkpoints/
