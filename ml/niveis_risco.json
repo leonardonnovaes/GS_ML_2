@@ -1,0 +1,28 @@
+{
+  "cortes": [
+    0.8063634634017943,
+    1.5938489317893978,
+    2.2191891908645633
+  ],
+  "niveis": [
+    "Baixo",
+    "Moderado",
+    "Alto",
+    "Crítico"
+  ],
+  "colunas": [
+    "faixa",
+    "dia_semana",
+    "mes",
+    "feriado",
+    "chuva_mm",
+    "chuva_faixa_anterior_mm",
+    "temp_c",
+    "historico_30d",
+    "zona_Centro",
+    "zona_Leste",
+    "zona_Norte",
+    "zona_Oeste",
+    "zona_Sul"
+  ]
+}
