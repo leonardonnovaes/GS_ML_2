@@ -176,6 +176,9 @@ pip install -r ml/requirements.txt
 1. Baixe as bases
 2. Abra [`ml/main.ipynb`](ml/main.ipynb) e execute todas as células.
 
+## LINK PARA O VIDEO
+https://youtu.be/UwUWxiCqzt4
+
 
 
 **Fontes:** Infosiga SP / Detran-SP; INMET; [BNews – Mortes de motociclistas batem recorde nos primeiros nove meses em SP (20/10/2026)](https://www.bnewssaopaulo.com.br/amp/noticias/policia/mortes-de-motociclistas-batem-recorde-nos-primeiros-nove-meses-em-sp.html); [Correio da Manhã – Mortes no trânsito crescem em SP; motos somam 48% (out/2026)](https://www.correiodamanha.com.br/nacional/sao-paulo/2026/10/amp/328793-mortes-no-transito-crescem-em-sp-motos-somam-48-dos-obitos.html).
